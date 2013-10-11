@@ -1,0 +1,2 @@
+niftycloud-vagrant-sample
+=========================
